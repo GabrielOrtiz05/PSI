@@ -1,8 +1,30 @@
-.h1
+.foto
 {
-    background-color: black;
+    width: 1500px;
+    height: auto;
+
+position: relative;
+    top: 35px;
+    left: 300px;
+}
+.Slogan
+{
+    font-size: 30px;
+    font: bold;
+    position: relative;
+    left: 330px;
+}
+.Redirect-Agenda
+{
+    width: 500px;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: red;
+    border: none;
+    position: absolute;
+    left: 450px;
 }
 body
 {
-background-color: aqua;
+background-color: #58a9ff;
 }
